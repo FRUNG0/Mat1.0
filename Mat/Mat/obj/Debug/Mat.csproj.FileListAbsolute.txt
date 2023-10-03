@@ -1,0 +1,10 @@
+C:\Users\EV\source\repos\Mat\Mat\bin\Debug\Mat.exe.config
+C:\Users\EV\source\repos\Mat\Mat\bin\Debug\Mat.exe
+C:\Users\EV\source\repos\Mat\Mat\bin\Debug\Mat.pdb
+C:\Users\EV\source\repos\Mat\Mat\obj\Debug\Mat.csproj.AssemblyReference.cache
+C:\Users\EV\source\repos\Mat\Mat\obj\Debug\Mat.Form1.resources
+C:\Users\EV\source\repos\Mat\Mat\obj\Debug\Mat.Properties.Resources.resources
+C:\Users\EV\source\repos\Mat\Mat\obj\Debug\Mat.csproj.GenerateResource.cache
+C:\Users\EV\source\repos\Mat\Mat\obj\Debug\Mat.csproj.CoreCompileInputs.cache
+C:\Users\EV\source\repos\Mat\Mat\obj\Debug\Mat.exe
+C:\Users\EV\source\repos\Mat\Mat\obj\Debug\Mat.pdb
